@@ -8,10 +8,6 @@ Search and rate your favourite movies. Data about rated movies are stored in Loc
 - TypeScript
 - Vite
 
-## App deploy on Vercel:
-
-[Movie passport](https://movie-passport.vercel.app/)
-
 ## Available Scripts
 
 In the project directory, you can run:
